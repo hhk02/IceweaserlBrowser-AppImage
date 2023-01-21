@@ -10,24 +10,6 @@ They just download the AppImage assign the execute permissions and just open it.
 ```
 chmod +x ./Iceweasel_Browser-x86_64.AppImage 
 ```
+and run it.
 
-In case doesn't open, make sure you installed the next library:
-
-## Dependencies
-Arch Linux
-```
-sudo pacman -S gxmessage
-```
-
-Ubuntu/Debian:
-```
-sudo apt install gxmessage
-```
-
-Fedora:
-```
-sudo dnf install gxmessage
-```
-
-Gentoo:
-Not tested yet.
+Tested in Fedora for the moment
