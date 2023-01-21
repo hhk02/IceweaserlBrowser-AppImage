@@ -7,6 +7,10 @@ by hhk02 (IsaacFHL)
 
 They just download the AppImage assign the execute permissions and just open it.
 
+```
+chmod +x ./Iceweasel_Browser-x86_64.AppImage 
+```
+
 In case doesn't open, make sure you installed the next library:
 
 ## Dependencies
